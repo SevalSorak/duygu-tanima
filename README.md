@@ -12,9 +12,9 @@ Bu proje, derin öğrenme modellerini kullanarak yüz ifadelerini algılayıp s�
 ## 🖼 Arayüz 
 Projenin arayüz görselleri:
 
-![Görsel 1](images\Ekran görüntüsü 2025-03-10 010537.png)
-![Görsel 1](images\Ekran görüntüsü 2025-03-10 010858.png)
-![Görsel 1](images\Ekran görüntüsü 2025-03-10 011459.png)
+![Görsel 1](images/Ekran görüntüsü 2025-03-10 010537.png)
+![Görsel 2](images/Ekran görüntüsü 2025-03-10 010858.png)
+![Görsel 3](images/Ekran görüntüsü 2025-03-10 011459.png)
 
 ## 📊 Sonuçlar
 - **En yüksek doğruluk:** %72.55 (VGG Modeli)
